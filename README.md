@@ -1,5 +1,7 @@
 # Gym Membership Management System Using SQL and Python
 
+![PNG](https://github.com/realpauly/Gym-Membership-Management-System-Using-SQL-and-Python/blob/main/Gym.jpg)
+
 
 ## Introduction
 This project involves the creation of a Gym Membership Management System that efficiently manages members, trainers, classes, and attendance. The system was designed to streamline gym operations, improve resource allocation, and provide insightful reports on gym usage.
@@ -22,6 +24,12 @@ The raw data was cleaned, transformed, and pre-processed using Python, ensuring 
 
 ## Relational Database Modeling and Normalization
 Using Lucidchart, the database schema was modeled and normalized to third normal form (3NF) to eliminate data redundancy and ensure efficient querying. The schema included tables for members, trainers, classes, schedules, and attendance, all linked with appropriate foreign keys. The design adhered to principles of referential integrity and functional dependencies.
+
+![PNG](https://github.com/realpauly/Gym-Membership-Management-System-Using-SQL-and-Python/blob/main/Png1.jpeg)
+
+![PNG](https://github.com/realpauly/Gym-Membership-Management-System-Using-SQL-and-Python/blob/main/Png2.jpeg)
+
+![PNG](https://github.com/realpauly/Gym-Membership-Management-System-Using-SQL-and-Python/blob/main/png3.PNG)
 
 ## Conclusion and Recommendation
 The Gym Membership Management System effectively addresses the core needs of gym operations. The project demonstrates robust database design, high data integrity, and ease of querying. Future work could explore integrating a user interface to enhance user interaction with the database.
